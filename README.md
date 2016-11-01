@@ -1,1 +1,3 @@
 # NTAL
+
+Mini project tutorial 
